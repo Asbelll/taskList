@@ -1,0 +1,13 @@
+body {
+  background: #eee;
+}
+
+.sidebar {
+  background: darkgray;
+  max-width: 250px;
+}
+
+.content {
+  min-height: 100vh;
+  width: 100%;
+}
